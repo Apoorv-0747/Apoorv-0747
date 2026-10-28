@@ -1,60 +1,60 @@
 <div align="center">
 
-# Apoorv Verma
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/header.svg" alt="Apoorv Verma - Full-Stack and AI Developer" width="100%" />
 
-**B.Tech CSE Student · Full-Stack & AI Developer**
-ABES Engineering College, Ghaziabad
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/typing.svg" alt="Building AI-powered full-stack products" width="100%" />
 
-<a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:imapoorv108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Apoorv0747/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.codechef.com/users/Apoorv0747"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square" />
+<a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0d1117&color=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:imapoorv108@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=0d1117&color=0d1117" alt="Email" /></a>
+<a href="https://leetcode.com/u/Apoorv0747/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=22d3ee&labelColor=0d1117&color=0d1117" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/Apoorv0747"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=22d3ee&labelColor=0d1117&color=0d1117" alt="CodeChef" /></a>
 
 </div>
 
----
-
-## About
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/sec-about.svg" alt="About" width="100%" />
 
 I'm a Computer Science undergraduate who builds AI-powered, full-stack applications. I enjoy turning real-world problems into working products, from data-driven web platforms to edge-AI systems, and I practice data structures and algorithms in C++ to sharpen my problem solving.
 
-- 🔭 Building: AI + full-stack projects (see below)
-- 🌱 Learning: Data Structures & Algorithms, advanced web development, machine learning
-- 📫 Reach me: imapoorv108@gmail.com
+- 🔭 **Building:** AI + full-stack projects (featured below)
+- 🌱 **Learning:** Data Structures & Algorithms, advanced web development, machine learning
+- 📫 **Reach me:** [imapoorv108@gmail.com](mailto:imapoorv108@gmail.com)
 
----
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/sec-stack.svg" alt="Tech Stack" width="100%" />
 
-## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,react,vite,tailwind,nodejs,express,fastapi,postgres,tensorflow,sklearn&perline=12" alt="Tech stack icons" />
+</p>
 
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,js" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind" /> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/LightGBM-02A676?style=for-the-badge" /> |
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/sec-projects.svg" alt="Featured Projects" width="100%" />
 
----
+<a href="https://github.com/Apoorv-0747/BharatInvestAI"><img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/project-bharatinvest.svg" alt="BharatInvest AI" width="100%" /></a>
 
-## Featured Projects
+<a href="https://github.com/Apoorv-0747/Mesh-Rescue-Disaster"><img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/project-meshrescue.svg" alt="MeshRescue" width="100%" /></a>
 
-### 📈 [BharatInvest AI](https://github.com/Apoorv-0747/BharatInvestAI)
-AI-powered investment analysis platform that combines real-time Indian stock market data, RAG, and machine learning to deliver actionable market insights.
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/sec-coding.svg" alt="Coding Profiles" width="100%" />
 
-**Stack:** React · Vite · Tailwind CSS · Recharts · Node.js · Express · PostgreSQL (Neon) · JWT & bcrypt · FastAPI · Gemini 2.5 Flash · LightGBM · Scikit-learn
+<p align="center">
+  <a href="https://leetcode.com/u/Apoorv0747/">
+    <img src="https://leetcard.jacoblin.cool/Apoorv0747?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="520" />
+  </a>
+</p>
 
-### 🆘 [MeshRescue](https://github.com/Apoorv-0747/Mesh-Rescue-Disaster)
-Infrastructure-free, self-healing IoT mesh network with Edge AI that detects survivors, routes around hazards using A* pathfinding, and automates emergency triage when cellular networks fail.
-
-**Stack:** React 18 · Vite · TensorFlow.js (YAMNet) · Node.js · Express · WebSockets · HTML5 Canvas · Leaflet · Gemini Multimodal API · Framer Motion
-
----
-
-## Contribution Activity
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/sec-activity.svg" alt="Contribution Activity" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/sec-connect.svg" alt="Let's Connect" width="100%" />
+
+<p align="center">
+  Open to internships and collaborations. Feel free to reach out via
+  <a href="https://www.linkedin.com/in/apoorv-verma-8a1956362/">LinkedIn</a> or
+  <a href="mailto:imapoorv108@gmail.com">email</a>.
+</p>
+
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/footer.svg" alt="" width="100%" />
