@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Apoorv Verma - Full-Stack and AI Developer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050b18"/><stop offset=".55" stop-color="#0a1f33"/><stop offset="1" stop-color="#06303a"/></linearGradient>
+<linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<radialGradient id="o1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="o2"><stop offset="0" stop-color="#818cf8" stop-opacity=".50"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern>
+<clipPath id="r"><rect width="1000" height="280" rx="18"/></clipPath>
+</defs>
+<style>
+.nm{font:800 68px 'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1px;animation:rise 1.1s ease-out both}
+.sb{font:500 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#a5b8cc;letter-spacing:1.5px;animation:rise 1.1s .35s ease-out both}
+.fl{font:600 20px 'Fira Code','Cascadia Code',Consolas,'Courier New',monospace;fill:#5eead4;opacity:0;animation:float 9s linear infinite}
+@keyframes rise{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
+@keyframes float{0%{opacity:0;transform:translateY(0)}15%{opacity:.32}85%{opacity:.12}100%{opacity:0;transform:translateY(-150px)}}
+</style>
+<g clip-path="url(#r)">
+<rect width="1000" height="280" fill="url(#bg)"/>
+<rect width="1000" height="280" fill="url(#grid)"/>
+<circle cx="180" cy="60" r="230" fill="url(#o1)"><animateTransform attributeName="transform" type="translate" values="0 0;140 50;0 0" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="830" cy="230" r="250" fill="url(#o2)"><animateTransform attributeName="transform" type="translate" values="0 0;-160 -40;0 0" dur="14s" repeatCount="indefinite"/></circle>
+<text class="fl" x="90" y="230" style="animation-delay:0s">&lt;/&gt;</text><text class="fl" x="230" y="260" style="animation-delay:1.5s">{ }</text><text class="fl" x="380" y="240" style="animation-delay:3s">01</text><text class="fl" x="560" y="255" style="animation-delay:0.8s">( )</text><text class="fl" x="720" y="235" style="animation-delay:2.2s">=&gt;</text><text class="fl" x="860" y="260" style="animation-delay:3.6s">[ ]</text><text class="fl" x="150" y="250" style="animation-delay:4.4s">#</text><text class="fl" x="640" y="245" style="animation-delay:5.2s">::</text><text class="fl" x="940" y="240" style="animation-delay:2.9s">&amp;&amp;</text>
+<text class="nm" x="500" y="138" text-anchor="middle" fill="url(#nm)">Apoorv Verma</text>
+<text class="sb" x="500" y="186" text-anchor="middle">B.Tech CSE Student  •  Full-Stack &amp; AI Developer</text>
+<rect x="440" y="214" width="0" height="4" rx="2" fill="url(#bar)"><animate attributeName="width" from="0" to="120" dur="1.2s" begin=".9s" fill="freeze"/></rect>
+</g>
+<rect x=".5" y=".5" width="999" height="279" rx="18" fill="none" stroke="#22d3ee" stroke-opacity=".25"/>
+</svg>

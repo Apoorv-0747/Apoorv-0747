@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-label="">
+<defs><linearGradient id="wg" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+<g opacity=".18" fill="url(#wg)"><path d="M-500,60 Q-375,34 -250,60 T0,60 Q125,34 250,60 T500,60 Q625,34 750,60 T1000,60 Q1125,34 1250,60 T1500,60 Q1625,34 1750,60 T2000,60 Q2125,34 2250,60 T2500,60 V130 H-500 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="500 0" dur="9s" repeatCount="indefinite"/></path></g>
+<g opacity=".30" fill="url(#wg)"><path d="M-500,74 Q-375,54 -250,74 T0,74 Q125,54 250,74 T500,74 Q625,54 750,74 T1000,74 Q1125,54 1250,74 T1500,74 Q1625,54 1750,74 T2000,74 Q2125,54 2250,74 T2500,74 V130 H-500 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="7s" repeatCount="indefinite"/></path></g>
+</svg>
