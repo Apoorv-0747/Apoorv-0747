@@ -24,18 +24,31 @@ I build AI-powered, full-stack applications and enjoy turning real-world problem
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,react,vite,tailwind,nodejs,express,fastapi,postgres,tensorflow,sklearn&perline=12" alt="Tech stack" />
-</p>
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,js" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres" alt="Backend" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="AI/ML" /> |
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-**[📈 BharatInvest AI](https://github.com/Apoorv-0747/BharatInvestAI)**
+#### 📈 [BharatInvest AI](https://github.com/Apoorv-0747/BharatInvestAI)
 AI-powered investment analysis platform that combines real-time Indian stock market data, RAG, and machine learning to deliver actionable market insights.
+
+- Live market data pipeline with an LLM (Gemini 2.5 Flash) and RAG for market insights
+- Machine learning models (LightGBM, Scikit-learn) served through a FastAPI microservice
+- Secure JWT authentication, interactive charts and downloadable PDF reports
+
 `React` `Vite` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `FastAPI` `Gemini API` `LightGBM` `Scikit-learn`
 
-**[🆘 MeshRescue](https://github.com/Apoorv-0747/Mesh-Rescue-Disaster)**
-Infrastructure-free, self-healing IoT mesh network with Edge AI that detects survivors, routes around hazards with A* pathfinding, and automates emergency triage when cellular networks fail.
+#### 🆘 [MeshRescue](https://github.com/Apoorv-0747/Mesh-Rescue-Disaster)
+Infrastructure-free, self-healing IoT mesh network with Edge AI that detects survivors, routes around hazards, and automates emergency triage when cellular networks fail.
+
+- On-device survivor detection with TensorFlow.js (YAMNet), no internet needed
+- Dynamic rescue routing around hazards using the A* pathfinding algorithm
+- Real-time mesh communication over WebSockets with a 60 FPS canvas map
+
 `React` `Vite` `TensorFlow.js` `Node.js` `Express` `WebSockets` `Leaflet` `Gemini API`
 
 ### 📈 Contribution Activity
@@ -48,4 +61,6 @@ Infrastructure-free, self-healing IoT mesh network with Edge AI that detects sur
 
 ---
 
-<p align="center">📫 <a href="mailto:imapoorv108@gmail.com">imapoorv108@gmail.com</a></p>
+<p align="center">📫 Let's connect: <a href="mailto:imapoorv108@gmail.com">imapoorv108@gmail.com</a></p>
+
+<img src="https://raw.githubusercontent.com/Apoorv-0747/Apoorv-0747/main/assets/footer.svg" alt="" width="100%" />
